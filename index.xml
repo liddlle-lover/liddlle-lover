@@ -35,7 +35,7 @@
       <pubDate>Mon, 20 Aug 2018 14:14:14 -1414</pubDate>
       
       <guid>/links/</guid>
-      <description>     library(DT) df = data.frame( Ссылка = &amp;quot;https://liddlle-lover.github.io/gallery/&amp;quot;, Категория = &amp;quot;мемы&amp;quot;, Коммент = &amp;quot;&amp;quot;, stringsAsFactors = FALSE ) datatable(df)  {&#34;x&#34;:{&#34;filter&#34;:&#34;none&#34;,&#34;data&#34;:[[&#34;1&#34;],[&#34;https://liddlle-lover.github.io/gallery/&#34;],[&#34;мемы&#34;],[&#34;&#34;]],&#34;container&#34;:&#34;\n \n \n  \n Ссылка\n Категория\n Коммент\n \n \n&#34;,&#34;options&#34;:{&#34;order&#34;:[],&#34;autoWidth&#34;:false,&#34;orderClasses&#34;:false,&#34;columnDefs&#34;:[{&#34;orderable&#34;:false,&#34;targets&#34;:0}]}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]} </description>
+      <description>     knitr::opts_chunk$set(echo = FALSE)  {&#34;x&#34;:{&#34;filter&#34;:&#34;none&#34;,&#34;data&#34;:[[&#34;1&#34;],[&#34;https://liddlle-lover.github.io/gallery/&#34;],[&#34;мемы&#34;],[&#34;&#34;]],&#34;container&#34;:&#34;\n \n \n  \n Ссылка\n Категория\n Коммент\n \n \n&#34;,&#34;options&#34;:{&#34;order&#34;:[],&#34;autoWidth&#34;:false,&#34;orderClasses&#34;:false,&#34;columnDefs&#34;:[{&#34;orderable&#34;:false,&#34;targets&#34;:0}]}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]} </description>
     </item>
     
     <item>

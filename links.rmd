@@ -4,6 +4,10 @@ date: "2018-08-20T14:14:14-14:14"
 ---
 
 ```{r}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+```{r}
 library(DT)
 ```
 
