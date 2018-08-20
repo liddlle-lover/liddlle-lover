@@ -62,7 +62,7 @@ code {
   display: block;
   max-height: 40px;
   width: auto;
-  border-radius: 0%;
+  border-radius: 1%;
 }
 
 .nav-links {
