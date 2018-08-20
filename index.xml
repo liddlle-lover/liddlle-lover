@@ -21,16 +21,16 @@
     </item>
     
     <item>
-      <title>Кто она?</title>
-      <link>/gallery/</link>
+      <title>Кто я?</title>
+      <link>/about/</link>
       <pubDate>Mon, 20 Aug 2018 14:14:14 -1414</pubDate>
       
-      <guid>/gallery/</guid>
-      <description>О Ней я могу писать бесконечно.</description>
+      <guid>/about/</guid>
+      <description>Имя начинается на букву В. Фамилия на букву К. Так случилось, что я сделал ужасно больно самому близкому человеку, который у меня был в жизни. Поэтому я теперь нечто среднее между покойником и &amp;hellip; (придумайте сами). Суть в том, что жить не хочется.</description>
     </item>
     
     <item>
-      <title>Кто она?</title>
+      <title>Ссылки, которые она не посмотрит</title>
       <link>/links/</link>
       <pubDate>Mon, 20 Aug 2018 14:14:14 -1414</pubDate>
       
@@ -39,12 +39,12 @@
     </item>
     
     <item>
-      <title>Кто я?</title>
-      <link>/about/</link>
+      <title>Фотографии, от которых я реву как сучка</title>
+      <link>/gallery/</link>
       <pubDate>Mon, 20 Aug 2018 14:14:14 -1414</pubDate>
       
-      <guid>/about/</guid>
-      <description>Имя начинается на букву В. Фамилия на букву К. Так случилось, что я сделал ужасно больно самому близкому человеку, который у меня был в жизни. Поэтому я теперь нечто среднее между покойником и &amp;hellip; (придумайте сами). Суть в том, что жить не хочется.</description>
+      <guid>/gallery/</guid>
+      <description>О Ней я могу писать бесконечно.</description>
     </item>
     
     <item>
