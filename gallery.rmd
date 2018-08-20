@@ -3,4 +3,30 @@ title: "Фотографии, от которых я реву как сучка"
 date: "2018-08-20T14:14:14-14:14"
 ---
 
-О Ней я могу писать бесконечно.  
+Фотки
+
+```{r}
+htmltools::HTML(
+  '
+<div class="row"> 
+  <div class="column">
+    <img src="gallery_photos/snow-1.jpg">
+    <img src="gallery_photos/snow-2.jpg">
+  </div>
+  <div class="column">
+    <img src="gallery_photos/snow-2.jpg">
+    <img src="gallery_photos/snow-2.jpg">
+  </div> 
+  <div class="column">
+    <img src="gallery_photos/ice-1.jpg">
+    <img src="gallery_photos/ice-1.jpg">
+  </div>
+  <div class="column">
+    <img src="gallery_photos/ice-2.jpg">
+    <img src="gallery_photos/ice-2.jpg">
+  </div>
+</div>
+  '
+)
+```
+

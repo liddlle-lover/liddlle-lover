@@ -10,7 +10,9 @@ library(DT)
 ```{r}
 df = data.frame(
   Ссылка = "https://liddlle-lover.github.io/gallery/",
-  Категория = "мемы"
+  Категория = "мемы",
+  Коммент = "",
+  stringsAsFactors = FALSE
 )
 ```
 
