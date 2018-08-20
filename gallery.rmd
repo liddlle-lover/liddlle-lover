@@ -1,5 +1,5 @@
 ---
-title: "Фотографии,<br>От которых я реву как сучка"
+title: "Фотографии,\nОт которых я реву как сучка"
 date: "2018-08-20T14:14:14-14:14"
 ---
 
@@ -9,20 +9,20 @@ htmltools::HTML(
 <div class="my_gallery">
   <div class="row"> 
     <div class="column">
-      <img src="/images/gallery_photos/snow-1.jpg">
-      <img src="/images/gallery_photos/snow-1.jpg">
+      <img src="/images/gallery_photos/snow-1.jpg" width="300px">
+      <img src="/images/gallery_photos/snow-1.jpg" width="300px">
     </div>
     <div class="column">
-      <img src="/images/gallery_photos/snow-2.jpg">
-      <img src="/images/gallery_photos/snow-2.jpg">
+      <img src="/images/gallery_photos/snow-2.jpg" width="300px">
+      <img src="/images/gallery_photos/snow-2.jpg" width="300px">
     </div> 
     <div class="column">
-      <img src="/images/gallery_photos/ice-1.jpg">
-      <img src="/images/gallery_photos/ice-1.jpg">
+      <img src="/images/gallery_photos/ice-1.jpg" width="300px">
+      <img src="/images/gallery_photos/ice-1.jpg" width="300px">
     </div>
     <div class="column">
-      <img src="/images/gallery_photos/ice-2.jpg">
-      <img src="/images/gallery_photos/ice-2.jpg">
+      <img src="/images/gallery_photos/ice-2.jpg" width="300px">
+      <img src="/images/gallery_photos/ice-2.jpg" width="300px">
     </div>
   </div>
 </div>
