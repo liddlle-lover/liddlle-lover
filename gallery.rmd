@@ -8,22 +8,24 @@ date: "2018-08-20T14:14:14-14:14"
 ```{r, echo=FALSE}
 htmltools::HTML(
   '
-<div class="row"> 
-  <div class="column">
-    <img src="snow-1.jpg">
-    <img src="snow-2.jpg">
-  </div>
-  <div class="column">
-    <img src="snow-2.jpg">
-    <img src="snow-2.jpg">
-  </div> 
-  <div class="column">
-    <img src="/liddlle-lover/config_files/ice-1.jpg">
-    <img src="ice-1.jpg">
-  </div>
-  <div class="column">
-    <img src="ice-2.jpg">
-    <img src="ice-2.jpg">
+<div class="my_gallery">
+  <div class="row"> 
+    <div class="column">
+      <img src="snow-1.jpg">
+      <img src="snow-2.jpg">
+    </div>
+    <div class="column">
+      <img src="snow-2.jpg">
+      <img src="snow-2.jpg">
+    </div> 
+    <div class="column">
+      <img src="/liddlle-lover/config_files/ice-1.jpg">
+      <img src="ice-1.jpg">
+    </div>
+    <div class="column">
+      <img src="ice-2.jpg">
+      <img src="ice-2.jpg">
+    </div>
   </div>
 </div>
   '
