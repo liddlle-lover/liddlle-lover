@@ -45,7 +45,7 @@
       
       <guid>/gallery/</guid>
       <description>Фотки
-htmltools::HTML( &amp;#39; &amp;lt;div class=&amp;quot;row&amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;column&amp;quot;&amp;gt; &amp;lt;img src=&amp;quot;gallery_photos/snow-1.jpg&amp;quot;&amp;gt; &amp;lt;img src=&amp;quot;gallery_photos/snow-2.jpg&amp;quot;&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;div class=&amp;quot;column&amp;quot;&amp;gt; &amp;lt;img src=&amp;quot;gallery_photos/snow-2.jpg&amp;quot;&amp;gt; &amp;lt;img src=&amp;quot;gallery_photos/snow-2.jpg&amp;quot;&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;div class=&amp;quot;column&amp;quot;&amp;gt; &amp;lt;img src=&amp;quot;gallery_photos/ice-1.jpg&amp;quot;&amp;gt; &amp;lt;img src=&amp;quot;gallery_photos/ice-1.jpg&amp;quot;&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;div class=&amp;quot;column&amp;quot;&amp;gt; &amp;lt;img src=&amp;quot;gallery_photos/ice-2.jpg&amp;quot;&amp;gt; &amp;lt;img src=&amp;quot;gallery_photos/ice-2.jpg&amp;quot;&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;/div&amp;gt; &amp;#39; )      </description>
+     </description>
     </item>
     
     <item>
