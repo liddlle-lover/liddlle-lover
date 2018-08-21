@@ -48,6 +48,24 @@
     </item>
     
     <item>
+      <title>а тест</title>
+      <link>/2018/08/21/%D0%B0-%D1%82%D0%B5%D1%81%D1%82/</link>
+      <pubDate>Tue, 21 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/08/21/%D0%B0-%D1%82%D0%B5%D1%81%D1%82/</guid>
+      <description>тест а</description>
+    </item>
+    
+    <item>
+      <title>б тест</title>
+      <link>/2018/08/21/%D0%B1-%D1%82%D0%B5%D1%81%D1%82/</link>
+      <pubDate>Tue, 21 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/08/21/%D0%B1-%D1%82%D0%B5%D1%81%D1%82/</guid>
+      <description>текст б</description>
+    </item>
+    
+    <item>
       <title>Вторая запись</title>
       <link>/2018/08/20/%D0%B2%D1%82%D0%BE%D1%80%D0%B0%D1%8F-%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C/</link>
       <pubDate>Mon, 20 Aug 2018 00:00:00 +0000</pubDate>
