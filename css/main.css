@@ -320,7 +320,7 @@ code {
   }
 }
 
-/* MY RESPONSIVE LAYOUT GALLERY */
+/* MY RESPONSIVE LAYOUT GALLERY 
 
 .my_gallery .row {
   display: flex;
@@ -328,7 +328,6 @@ code {
   padding: 0 4px;
 }
 
-/* Create four equal columns that sits next to each other */
 .my_gallery .column {
   flex: 25%;
   max-width: 25%;
@@ -340,7 +339,6 @@ code {
   vertical-align: middle;
 }
 
-/* Responsive layout - makes a two column-layout instead of four columns */
 @media screen and (max-width: 800px) {
   .my_gallery  .column {
     flex: 50%;
@@ -348,12 +346,11 @@ code {
   }
 }
 
-/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
 @media screen and (max-width: 600px) {
   .my_gallery .column {
     flex: 100%;
     max-width: 100%;
   }
 }
-
+*/
 
