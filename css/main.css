@@ -332,6 +332,13 @@ code {
   max-width: 50%
 }
 
+@media screen and (max-width: 800px) {
+  .my_gallery  .column {
+    flex: 50%;
+    max-width: 50%;
+  }
+}
+
 @media screen and (max-width: 600px) {
   .my_gallery .column {
     flex: 100%;
