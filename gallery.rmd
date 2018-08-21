@@ -11,18 +11,8 @@ htmltools::HTML(
   <div class="row"> 
     <div class="column">
       <img src="/images/gallery_photos/snow-1.jpg">
-      <img src="/images/gallery_photos/snow-1.jpg">
-    </div>
-    <div class="column">
       <img src="/images/gallery_photos/snow-2.jpg">
-      <img src="/images/gallery_photos/snow-2.jpg">
-    </div> 
-    <div class="column">
       <img src="/images/gallery_photos/ice-1.jpg">
-      <img src="/images/gallery_photos/ice-1.jpg">
-    </div>
-    <div class="column">
-      <img src="/images/gallery_photos/ice-2.jpg">
       <img src="/images/gallery_photos/ice-2.jpg">
     </div>
   </div>
