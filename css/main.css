@@ -200,20 +200,6 @@ code {
   border-bottom-color: #222;
 }
 
-.archive-item-link-post {
-  display: inline-block;
-  text-decoration: none;
-  font-size: 18px;
-  font-weight: bold;
-  color: #222;
-  padding: 5px 0;
-  border-bottom: 1px solid #ddd;
-}
-
-.archive-item-link-post:hover {
-  border-bottom-color: #222;
-}
-
 .footer {
   padding: 25px 0;
   text-align: center;
