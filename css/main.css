@@ -320,30 +320,16 @@ code {
   }
 }
 
-/* MY RESPONSIVE LAYOUT GALLERY 
+/* MY RESPONSIVE LAYOUT GALLERY */
 
 .my_gallery .row {
   display: flex;
-  flex-wrap: wrap;
-  padding: 0 4px;
+  flex-wrap: wrap
 }
 
 .my_gallery .column {
-  flex: 25%;
-  max-width: 25%;
-  padding: 0 4px;
-}
-
-.my_gallery .column img {
-  margin-top: 8px;
-  vertical-align: middle;
-}
-
-@media screen and (max-width: 800px) {
-  .my_gallery  .column {
-    flex: 50%;
-    max-width: 50%;
-  }
+  flex: 50%;
+  max-width: 50%
 }
 
 @media screen and (max-width: 600px) {
@@ -352,5 +338,4 @@ code {
     max-width: 100%;
   }
 }
-*/
 
