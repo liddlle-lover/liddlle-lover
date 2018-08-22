@@ -74,5 +74,14 @@
       <description>текст</description>
     </item>
     
+    <item>
+      <title></title>
+      <link>/music/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/music/</guid>
+      <description>Музыка, которую я бы хотел, чтобы она послушала Слушайте Плейлист для Алины — Viktor199513 на Яндекс.Музыке </description>
+    </item>
+    
   </channel>
 </rss>
