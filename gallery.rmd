@@ -4,13 +4,18 @@ date: "2018-08-20T14:14:14-14:14"
 ---
 
 ```{r, echo=FALSE}
+library(htmltools)
+
 htmltools::h3("...от которых хочется плакать")
+```
+
+```{r, echo=FALSE}
 
 htmltools::HTML(
   '
 <div class="my_gallery">
-  <div class="row"> 
-    <div class="column">
+  <div class="my_gallery_row"> 
+    <div class="my_gallery_column">
       <img src="/images/gallery_photos/snow-1.jpg">
       <img src="/images/gallery_photos/snow-2.jpg">
       <img src="/images/gallery_photos/ice-1.jpg">
