@@ -1,10 +1,11 @@
 ---
-title: "Фотографии" 
-subtitle: "...от которых я реву как сучка"
+title: "Фотографии"
 date: "2018-08-20T14:14:14-14:14"
 ---
 
 ```{r, echo=FALSE}
+htmltools::h3("...от которых хочется плакать")
+
 htmltools::HTML(
   '
 <div class="my_gallery">

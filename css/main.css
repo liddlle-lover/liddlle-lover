@@ -321,26 +321,35 @@ code {
 }
 
 /* MY RESPONSIVE LAYOUT GALLERY */
-
 .my_gallery .row {
   display: flex;
-  flex-wrap: wrap
+  flex-wrap: wrap;
+  padding: 0 4px;
 }
 
-.my_gallery .column {
-  flex: 50%;
-  max-width: 50%
+/* Create four equal columns that sits next to each other */
+.my_gallery .row .column {
+  flex: 25%;
+  max-width: 25%;
+  padding: 0 4px;
 }
 
+.my_gallery .row .column img {
+  margin-top: 8px;
+  vertical-align: middle;
+}
+
+/* Responsive layout - makes a two column-layout instead of four columns */
 @media screen and (max-width: 800px) {
-  .my_gallery  .column {
+  .my_gallery .row .column {
     flex: 50%;
     max-width: 50%;
   }
 }
 
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
 @media screen and (max-width: 600px) {
-  .my_gallery .column {
+  .my_gallery .row .column {
     flex: 100%;
     max-width: 100%;
   }
