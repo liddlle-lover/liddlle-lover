@@ -3,8 +3,8 @@
   font-style: normal;
   font-weight: 400;
   src: local('Merriweather Regular'), local('Merriweather-Regular'),
-       url('https://github.com/liddlle-lover/liddlle-lover.github.io/blob/master/fonts/fonts/merriweather-v19-cyrillic_latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
-       url('https://github.com/liddlle-lover/liddlle-lover.github.io/blob/master/fonts/fonts/merriweather-v19-cyrillic_latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+       url('https://github.com/liddlle-lover/liddlle-lover.github.io/blob/master/fonts/fonts/merriweather-v19-cyrillic_latin-regular.woff2?raw=true') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('https://github.com/liddlle-lover/liddlle-lover.github.io/blob/master/fonts/fonts/merriweather-v19-cyrillic_latin-regular.woff?raw=true') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 
 @font-face {
@@ -12,8 +12,8 @@
   font-style: normal;
   font-weight: 400;
   src: local('Open Sans Regular'), local('OpenSans-Regular'),
-       url('https://github.com/liddlle-lover/liddlle-lover.github.io/blob/master/fonts/fonts/open-sans-v15-cyrillic_cyrillic-ext_latin-ext_latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
-       url('https://github.com/liddlle-lover/liddlle-lover.github.io/blob/master/fonts/fonts/open-sans-v15-cyrillic_cyrillic-ext_latin-ext_latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+       url('https://github.com/liddlle-lover/liddlle-lover.github.io/blob/master/fonts/fonts/open-sans-v15-cyrillic_cyrillic-ext_latin-ext_latin-regular.woff2?raw=true') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('https://github.com/liddlle-lover/liddlle-lover.github.io/blob/master/fonts/fonts/open-sans-v15-cyrillic_cyrillic-ext_latin-ext_latin-regular.woff?raw=true') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 
 body {
