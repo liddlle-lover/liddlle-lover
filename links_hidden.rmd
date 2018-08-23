@@ -1,0 +1,27 @@
+---
+title: "Ссылки" 
+subtitle: "...которые она не посмотрит"
+date: "2018-08-20T14:14:14-14:14"
+---
+
+```{r}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+```{r}
+library(DT)
+```
+
+```{r}
+df = data.frame(
+  Ссылка = "https://liddlle-lover.github.io/gallery/",
+  Категория = "мемы",
+  Коммент = "",
+  stringsAsFactors = FALSE
+)
+```
+
+```{r}
+datatable(df)
+```
+

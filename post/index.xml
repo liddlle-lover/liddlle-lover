@@ -6,36 +6,45 @@
     <description>Recent content in Posts on liddle lover&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
-    <lastBuildDate>Tue, 21 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Aug 2018 03:03:45 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>01 первая запись</title>
-      <link>/2018/08/21/01-%D0%BF%D0%B5%D1%80%D0%B2%D0%B0%D1%8F-%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C/</link>
-      <pubDate>Tue, 21 Aug 2018 00:00:00 +0000</pubDate>
+      <title>первый пост</title>
+      <link>/2018/08/24/%D0%BF%D0%B5%D1%80%D0%B2%D1%8B%D0%B9-%D0%BF%D0%BE%D1%81%D1%82/</link>
+      <pubDate>Fri, 24 Aug 2018 03:03:45 +0000</pubDate>
       
-      <guid>/2018/08/21/01-%D0%BF%D0%B5%D1%80%D0%B2%D0%B0%D1%8F-%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C/</guid>
-      <description>текст</description>
+      <guid>/2018/08/24/%D0%BF%D0%B5%D1%80%D0%B2%D1%8B%D0%B9-%D0%BF%D0%BE%D1%81%D1%82/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>02 вторая запись</title>
-      <link>/2018/08/21/02-%D0%B2%D1%82%D0%BE%D1%80%D0%B0%D1%8F-%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C/</link>
-      <pubDate>Tue, 21 Aug 2018 00:00:00 +0000</pubDate>
+      <title>третья запись</title>
+      <link>/2018/08/23/03-%D1%82%D1%80%D0%B5%D1%82%D1%8C%D1%8F-%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C/</link>
+      <pubDate>Thu, 23 Aug 2018 20:45:45 +0000</pubDate>
       
-      <guid>/2018/08/21/02-%D0%B2%D1%82%D0%BE%D1%80%D0%B0%D1%8F-%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C/</guid>
-      <description>текст</description>
+      <guid>/2018/08/23/03-%D1%82%D1%80%D0%B5%D1%82%D1%8C%D1%8F-%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>03 третья запись</title>
-      <link>/2018/08/21/03-%D1%82%D1%80%D0%B5%D1%82%D1%8C%D1%8F-%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C/</link>
-      <pubDate>Tue, 21 Aug 2018 00:00:00 +0000</pubDate>
+      <title>второй пост</title>
+      <link>/2018/08/23/02-%D0%B2%D1%82%D0%BE%D1%80%D0%BE%D0%B9-%D0%BF%D0%BE%D1%81%D1%82/</link>
+      <pubDate>Thu, 23 Aug 2018 15:45:45 +0000</pubDate>
       
-      <guid>/2018/08/21/03-%D1%82%D1%80%D0%B5%D1%82%D1%8C%D1%8F-%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C/</guid>
-      <description>текст</description>
+      <guid>/2018/08/23/02-%D0%B2%D1%82%D0%BE%D1%80%D0%BE%D0%B9-%D0%BF%D0%BE%D1%81%D1%82/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>первая запись</title>
+      <link>/2018/08/23/01-%D0%BF%D0%B5%D1%80%D0%B2%D0%B0%D1%8F-%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C/</link>
+      <pubDate>Thu, 23 Aug 2018 14:45:45 +0000</pubDate>
+      
+      <guid>/2018/08/23/01-%D0%BF%D0%B5%D1%80%D0%B2%D0%B0%D1%8F-%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C/</guid>
+      <description></description>
     </item>
     
   </channel>

@@ -3,6 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/2018/08/24/%D0%BF%D0%B5%D1%80%D0%B2%D1%8B%D0%B9-%D0%BF%D0%BE%D1%81%D1%82/</loc>
+    <lastmod>2018-08-24T03:03:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2018/08/23/03-%D1%82%D1%80%D0%B5%D1%82%D1%8C%D1%8F-%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C/</loc>
+    <lastmod>2018-08-23T20:45:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2018/08/23/02-%D0%B2%D1%82%D0%BE%D1%80%D0%BE%D0%B9-%D0%BF%D0%BE%D1%81%D1%82/</loc>
+    <lastmod>2018-08-23T15:45:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2018/08/23/01-%D0%BF%D0%B5%D1%80%D0%B2%D0%B0%D1%8F-%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C/</loc>
+    <lastmod>2018-08-23T14:45:45+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/about_her/</loc>
     <lastmod>2018-08-20T14:14:14-14:14</lastmod>
   </url>
@@ -18,7 +38,7 @@
   </url>
   
   <url>
-    <loc>/links/</loc>
+    <loc>/links_hidden/</loc>
     <lastmod>2018-08-20T14:14:14-14:14</lastmod>
   </url>
   
@@ -28,18 +48,7 @@
   </url>
   
   <url>
-    <loc>/2018/08/21/01-%D0%BF%D0%B5%D1%80%D0%B2%D0%B0%D1%8F-%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C/</loc>
-    <lastmod>2018-08-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/2018/08/21/02-%D0%B2%D1%82%D0%BE%D1%80%D0%B0%D1%8F-%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C/</loc>
-    <lastmod>2018-08-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/2018/08/21/03-%D1%82%D1%80%D0%B5%D1%82%D1%8C%D1%8F-%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C/</loc>
-    <lastmod>2018-08-21T00:00:00+00:00</lastmod>
+    <loc>/gallery_frame/</loc>
   </url>
   
   <url>
@@ -49,7 +58,7 @@
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2018-08-21T00:00:00+00:00</lastmod>
+    <lastmod>2018-08-24T03:03:45+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -60,7 +69,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2018-08-20T14:14:14-14:14</lastmod>
+    <lastmod>2018-08-24T03:03:45+00:00</lastmod>
     <priority>0</priority>
   </url>
   

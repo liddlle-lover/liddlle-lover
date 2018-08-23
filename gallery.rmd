@@ -11,19 +11,9 @@ htmltools::h3("...от которых хочется плакать")
 
 ```{r, echo=FALSE}
 
-htmltools::HTML(
-  '
-<div class="my_gallery">
-  <div class="my_gallery_row"> 
-    <div class="my_gallery_column">
-      <img src="/images/gallery_photos/snow-1.jpg">
-      <img src="/images/gallery_photos/snow-2.jpg">
-      <img src="/images/gallery_photos/ice-1.jpg">
-      <img src="/images/gallery_photos/ice-2.jpg">
-    </div>
-  </div>
-</div>
-  '
-)
+HTML('
+<iframe src="https://www.w3schools.com" width = "100%" frameborder = 0 height = "1000px" sandbox = ""></iframe>
+')
+
 ```
 
