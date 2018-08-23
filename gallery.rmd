@@ -11,9 +11,11 @@ htmltools::h3("...от которых хочется плакать")
 
 ```{r, echo=FALSE}
 
-# HTML('
-# <iframe src="/gallery_frame/" width = "100%" frameborder = 0></iframe>
-# ')
+HTML('
+<div>
+  <iframe src="/gallery_frame/" width = "100%" frameborder = 0></iframe>
+</div>
+')
 
 ```
 
