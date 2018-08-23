@@ -321,3 +321,6 @@ code {
 }
 
 /* MY RESPONSIVE LAYOUT GALLERY */
+img {
+  image-orientation: angle(0);
+}
