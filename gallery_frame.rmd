@@ -1,76 +1,123 @@
 
-```{r libraries, echo=FALSE}
-library(htmltools)
-```
+<!-- ```{r libraries, echo=FALSE} -->
+<!-- library(htmltools) -->
+<!-- library(stringr) -->
+<!-- ``` -->
 
-```{r styles css, echo=FALSE}
+<!-- ```{r styles css, echo=FALSE} -->
 
-HTML('
-<head>
-<style>
+<!-- HTML(' -->
+<!-- <head> -->
+<!-- <style> -->
 
-img {
-  width: 100%
-}
+<!-- img { -->
+<!--   width: 100% -->
+<!-- } -->
 
-.row {
-  display: flex;
-  flex-wrap: wrap;
-  padding: 0 4px;
-}
+<!-- .row { -->
+<!--   display: flex; -->
+<!--   flex-wrap: wrap; -->
+<!--   padding: 0 4px; -->
+<!-- } -->
 
-/* Create four equal columns that sits next to each other */
-.column {
-  flex: 25%;
-  max-width: 25%;
-  padding: 0 4px;
-}
+<!-- /* Create four equal columns that sits next to each other */ -->
+<!-- .column { -->
+<!--   flex: 25%; -->
+<!--   max-width: 25%; -->
+<!--   padding: 0 4px; -->
+<!-- } -->
 
-.column img {
-  margin-top: 8px;
-  vertical-align: middle;
-}
+<!-- .column img { -->
+<!--   margin-top: 8px; -->
+<!--   vertical-align: middle; -->
+<!-- } -->
 
-/* Responsive layout - makes a two column-layout instead of four columns */
-@media screen and (max-width: 800px) {
-  .column {
-    flex: 50%;
-    max-width: 50%;
-  }
-}
+<!-- /* Responsive layout - makes a two column-layout instead of four columns */ -->
+<!-- @media screen and (max-width: 600px) { -->
+<!--   .column { -->
+<!--     flex: 50%; -->
+<!--     max-width: 50%; -->
+<!--   } -->
+<!-- } -->
 
-/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
-@media screen and (max-width: 600px) {
-  .column {
-    flex: 100%;
-    max-width: 100%;
-  }
-}
+<!-- /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */ -->
+<!-- @media screen and (max-width: 300px) { -->
+<!--   .column { -->
+<!--     flex: 100%; -->
+<!--     max-width: 100%; -->
+<!--   } -->
+<!-- } -->
 
-img {
-  image-orientation: from-image;
-}
+<!-- img { -->
+<!--   image-orientation: from-image; -->
+<!-- } -->
 
-</style>
-</head>
-')
+<!-- #cf { -->
+<!--   position:relative; -->
+<!--   height:281px; -->
+<!--   width:450px; -->
+<!--   margin:0 auto; -->
+<!-- } -->
 
-```
+<!-- #cf img { -->
+<!--   position:absolute; -->
+<!--   left:0; -->
+<!--   -webkit-transition: opacity 1s ease-in-out; -->
+<!--   -moz-transition: opacity 1s ease-in-out; -->
+<!--   -o-transition: opacity 1s ease-in-out; -->
+<!--   transition: opacity 1s ease-in-out; -->
+<!-- } -->
 
-```{r images, echo = F}
+<!-- #cf img.top:hover { -->
+<!--   opacity:0; -->
+<!-- } -->
+<!-- ') -->
 
-HTML('
+<!-- ``` -->
 
-<div class="row"> 
-  <div class="column">
-    <img src="/images/gallery_photos/snow-1.jpg"></img>
-  </div>
-  <div class="column">
-    <img src="/images/gallery_photos/snow-2.jpg"></img>
-  </div>
-</div>
+<!-- ```{r get list of photos, echo=FALSE} -->
+<!-- #get set of photos -->
+<!-- ph = list.files("~/blog/build/themes/hugo-lithium/static/images/gallery_photos/") -->
+<!-- ph = data.frame( -->
+<!--   file = ph, -->
+<!--   path = str_c("/images/gallery_photos/", ph), -->
+<!--   stringsAsFactors = FALSE -->
+<!-- ) -->
+<!-- ph$file_n = str_extract(ph$file, ".*(?=\\_)") -->
+<!-- ph$file_part = str_extract(ph$file, "(?<=\\_).*(?=\\.)") -->
 
-')
+<!-- ``` -->
 
-```
+<!-- ```{r, echo=FALSE} -->
+
+<!-- # HTML(' -->
+<!-- #   <div id="cf"> -->
+<!-- #     <img class="bottom" src="/images/gallery_photos/05_2.jpg" /> -->
+<!-- #     <img class="top" src="/images/gallery_photos/05_1.jpg" /> -->
+<!-- #   </div> -->
+<!-- # ') -->
+
+<!-- ``` -->
+
+<!-- ```{r generate gallery, echo=FALSE} -->
+<!-- # code = '<div class="row">' -->
+<!-- # for(i in unique(ph$file_n)){ -->
+<!-- #   tmp = str_c( -->
+<!-- #     '<div class="column">', -->
+<!-- #     '<img src="', ph$path[ph$file_n == i & ph$file_part == 1], '"></img>', -->
+<!-- #     '<img src="', ph$path[ph$file_n == i & ph$file_part == 2], '"></img>', -->
+<!-- #     '</div>' -->
+<!-- #   ) -->
+<!-- # -->
+<!-- #   code = str_c(code, tmp) -->
+<!-- # } -->
+<!-- # code = str_c( -->
+<!-- #   code, -->
+<!-- #   '</div>' -->
+<!-- # ) -->
+
+
+<!-- # HTML(code) -->
+
+<!-- ``` -->
 
