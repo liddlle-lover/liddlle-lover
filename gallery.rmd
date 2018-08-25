@@ -10,6 +10,14 @@ htmltools::h3("...от которых хочется плакать")
 
 ```
 
+![](/./gallery_files/02_1.jpg){width=100%}
+
+![](/./gallery_files/03_2.jpg){width=100%}
+
+![](/./gallery_files/04_1.jpg){width=100%}
+
+![](/./gallery_files/05_1.jpg){width=100%}
+
 ```{r, echo=FALSE}
 
 HTML('

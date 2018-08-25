@@ -52,25 +52,6 @@
 <!--   image-orientation: from-image; -->
 <!-- } -->
 
-<!-- #cf { -->
-<!--   position:relative; -->
-<!--   height:281px; -->
-<!--   width:450px; -->
-<!--   margin:0 auto; -->
-<!-- } -->
-
-<!-- #cf img { -->
-<!--   position:absolute; -->
-<!--   left:0; -->
-<!--   -webkit-transition: opacity 1s ease-in-out; -->
-<!--   -moz-transition: opacity 1s ease-in-out; -->
-<!--   -o-transition: opacity 1s ease-in-out; -->
-<!--   transition: opacity 1s ease-in-out; -->
-<!-- } -->
-
-<!-- #cf img.top:hover { -->
-<!--   opacity:0; -->
-<!-- } -->
 <!-- ') -->
 
 <!-- ``` -->
@@ -88,36 +69,25 @@
 
 <!-- ``` -->
 
-<!-- ```{r, echo=FALSE} -->
-
-<!-- # HTML(' -->
-<!-- #   <div id="cf"> -->
-<!-- #     <img class="bottom" src="/images/gallery_photos/05_2.jpg" /> -->
-<!-- #     <img class="top" src="/images/gallery_photos/05_1.jpg" /> -->
-<!-- #   </div> -->
-<!-- # ') -->
-
-<!-- ``` -->
-
 <!-- ```{r generate gallery, echo=FALSE} -->
-<!-- # code = '<div class="row">' -->
-<!-- # for(i in unique(ph$file_n)){ -->
-<!-- #   tmp = str_c( -->
-<!-- #     '<div class="column">', -->
-<!-- #     '<img src="', ph$path[ph$file_n == i & ph$file_part == 1], '"></img>', -->
-<!-- #     '<img src="', ph$path[ph$file_n == i & ph$file_part == 2], '"></img>', -->
-<!-- #     '</div>' -->
-<!-- #   ) -->
-<!-- # -->
-<!-- #   code = str_c(code, tmp) -->
-<!-- # } -->
-<!-- # code = str_c( -->
-<!-- #   code, -->
-<!-- #   '</div>' -->
-<!-- # ) -->
+<!-- code = '<div class="row">' -->
+<!-- for(i in unique(ph$file_n)){ -->
+<!--   tmp = str_c( -->
+<!--     '<div class="column">', -->
+<!--     '<img src="', ph$path[ph$file_n == i & ph$file_part == 1], '"></img>', -->
+<!--     '<img src="', ph$path[ph$file_n == i & ph$file_part == 2], '"></img>', -->
+<!--     '</div>' -->
+<!--   ) -->
+
+<!--   code = str_c(code, tmp) -->
+<!-- } -->
+<!-- code = str_c( -->
+<!--   code, -->
+<!--   '</div>' -->
+<!-- ) -->
 
 
-<!-- # HTML(code) -->
+<!-- HTML(code) -->
 
 <!-- ``` -->
 
