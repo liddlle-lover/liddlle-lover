@@ -164,7 +164,7 @@ code {
   padding: 0;
   list-style: none;
   line-height: 1.3em;
-  text-align: center;
+  text-align: left;
   color: #111;
 }
 
@@ -180,10 +180,11 @@ code {
 
 .archive-item-date {
   color: #ccc;
-  font-size: 14px;
-  padding: 5px 0;
-  margin-top: 5px;
+  font-size: 21px;
+  margin-right: 5px;
   display: block;
+  text-align: right;
+  float: right;
 }
 
 .archive-item-link {
@@ -321,6 +322,3 @@ code {
 }
 
 /* MY RESPONSIVE LAYOUT GALLERY */
-img {
-  image-orientation: angle(0);
-}
